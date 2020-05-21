@@ -30,4 +30,4 @@ async def on_message(message):
 	print('sentiment:' + str(sentiment))
 	await message.channel.send('The sentiment of your text is ' + str(sentiment))
 
-client.run('Njk4MDA4NjAyNTY4Mjk0NDAx.XsOH4w.h_p-CliLQLbB_j6Tio-wBwIrkUM')
+client.run('your discord bot token here')
