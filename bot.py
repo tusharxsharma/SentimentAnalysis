@@ -12,4 +12,4 @@ async def on_message(message):
 	 await message.channel.send(message.content)
 
 #run our bot
-client.run('Njk4MDA4NjAyNTY4Mjk0NDAx.XsOH4w.h_p-CliLQLbB_j6Tio-wBwIrkUM')
+client.run('your token here')
