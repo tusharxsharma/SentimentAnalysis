@@ -3,4 +3,5 @@ A Discord Sentiment Analysis bot made using python. Sentiment analysis refers to
 information.
 ## Install these using Git
 1. Vader
-2. GoogleTranslator 
+2. GoogleTranslator
+## Use Command Line to Run the Sentiment Analysis Bot
